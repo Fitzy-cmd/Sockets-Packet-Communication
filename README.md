@@ -1,6 +1,10 @@
 # Sockets-Packet-Communication
 This project demonstrates a client-server web socket system that sends custom-form packets back and forth to retrieve and display information about a provided city capital.
 
+This project was sourced from a university project completed during my enrollment. The original repository has been kept private as per the university code of conduct, so this repository has all references to the university removed.
+
+This project achieved a final mark of **96%**
+
 ## How to execute server
 With the terminal in the same directory, run the following command (note that the command to run python can vary between operating systems. It can be `py`, `python3`, `python`, etc):
 ```
