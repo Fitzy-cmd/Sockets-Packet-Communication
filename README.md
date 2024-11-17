@@ -1,4 +1,5 @@
 # Sockets-Packet-Communication
+This project demonstrates a client-server web socket system that sends custom-form packets back and forth to retrieve and display information about a provided city capital.
 
 ## How to execute server
 With the terminal in the same directory, run the following command (note that the command to run python can vary between operating systems. It can be `py`, `python3`, `python`, etc):
